@@ -1,7 +1,8 @@
 ## Dev-Store
 Dev Store is an electronic commerce company. Dev Store has products including mobiles, laptop, headphones and speakers.
 
-#Screenshots :
+# Screenshots :
+
 https://user-images.githubusercontent.com/32246722/31309402-4fdc242c-aba3-11e7-878b-18b10ce057b3.jpg
 https://user-images.githubusercontent.com/32246722/31309401-4fdbe0c0-aba3-11e7-8465-1edae938cc99.jpg
 https://user-images.githubusercontent.com/32246722/31309403-4fdd10b2-aba3-11e7-936d-da1d4003b4a2.jpg
